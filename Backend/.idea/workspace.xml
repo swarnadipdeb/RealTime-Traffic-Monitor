@@ -12,20 +12,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/kafkaConsumer.main.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules/kafkaProducer.main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaConsumer/kafkaConsumer/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaConsumer/kafkaConsumer/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaConsumer/kafkaConsumer/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaConsumer/kafkaConsumer/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaConsumer/kafkaConsumer/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaConsumer/kafkaConsumer/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaConsumer/kafkaConsumer/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaConsumer/kafkaConsumer/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaConsumer/kafkaConsumer/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaConsumer/kafkaConsumer/src/main/java/com/res/consumer/kafkaConsumer/KafkaConsumerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaConsumer/kafkaConsumer/src/main/java/com/res/consumer/kafkaConsumer/Services/consumerService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaConsumer/kafkaConsumer/src/main/java/com/res/consumer/kafkaConsumer/config/prometheusconfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaConsumer/kafkaConsumer/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaConsumer/kafkaConsumer/src/test/java/com/res/consumer/kafkaConsumer/KafkaConsumerApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/kafkaProducer/.idea/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/kafkaProducer/.idea/compiler.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/kafkaProducer/.idea/gradle.xml" beforeDir="false" />
@@ -36,22 +22,6 @@
       <change beforePath="$PROJECT_DIR$/kafkaProducer/.idea/modules/kafkaConsumer.main.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/kafkaProducer/.idea/modules/kafkaProducer.main.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/kafkaProducer/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaProducer/kafkaProducer/.gitattributes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaProducer/kafkaProducer/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaProducer/kafkaProducer/Dockerfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaProducer/kafkaProducer/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaProducer/kafkaProducer/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaProducer/kafkaProducer/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaProducer/kafkaProducer/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaProducer/kafkaProducer/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaProducer/kafkaProducer/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaProducer/kafkaProducer/src/main/java/com/res/producer/kafkaProducer/KafkaProducerApplication.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaProducer/kafkaProducer/src/main/java/com/res/producer/kafkaProducer/config/corsConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaProducer/kafkaProducer/src/main/java/com/res/producer/kafkaProducer/config/kafkaConfig.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaProducer/kafkaProducer/src/main/java/com/res/producer/kafkaProducer/config/kafkaConstants.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaProducer/kafkaProducer/src/main/java/com/res/producer/kafkaProducer/controller/producer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaProducer/kafkaProducer/src/main/resources/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/kafkaProducer/kafkaProducer/src/test/java/com/res/producer/kafkaProducer/KafkaProducerApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/nginx/conf.d/nginx-proxy.conf" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/../docker-compose.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ui/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/../ui/Dockerfile" afterDir="false" />

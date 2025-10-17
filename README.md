@@ -271,6 +271,7 @@ http://prometheus:9090
 3. **Kafka Consumer** processes event, updates Prometheus counters.  
 4. **Prometheus** scrapes metrics.  
 5. **Grafana** visualizes real-time analytics.
+![](./img/grafana-screenshot.png)
 
 ---
 
